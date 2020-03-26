@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.demo-editor{
+  height:40vh;
+  width:inherit;
+  background-color: white;
+}
+.demo-wrapper{
+  height:60%;
+  width:90%;
+  margin: auto;
+  max-width: 1000px;
+  z-index:2;
+}
+
+
